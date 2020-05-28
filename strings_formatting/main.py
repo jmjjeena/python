@@ -3,7 +3,6 @@ first_name = "Jeena"
 last_name = "John"
 
 print(f"Hello {first_name} {last_name}")
-
 # with .format()
 name = "Sam"
 greeting = "Hello {}"
