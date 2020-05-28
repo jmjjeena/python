@@ -2,7 +2,7 @@
 user_age = input("Enter your age: ")
 years = int(user_age)
 months = years * 12
-print(f"\nYour age, {years}, is equal to {months} months.")
+print("\nYour age, {years}, is equal to {months} months.")
 
 # print years into days
 age = int(input("Enter your age: "))
