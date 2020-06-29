@@ -20,6 +20,8 @@ Difference between set and the other two
     --> lists and tuples keeps the order of the elements
     --> whenever you print out the list it will print out in the same order as it was stored
     --> but sets won't keep the order
+    --> has {} 
+    --> You can't access individual elements of a set by using subscript notation
 '''
 
 '''
